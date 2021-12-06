@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.exe
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.deps.json
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.runtimeconfig.json
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.dll
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\ref\prim_kwur.dll
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\bin\Debug\net5.0\prim_kwur.pdb
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.dll
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\ref\prim_kwur.dll
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.pdb
+C:\Users\elo\source\repos\prim_kwur\prim_kwur\obj\Debug\net5.0\prim_kwur.genruntimeconfig.cache

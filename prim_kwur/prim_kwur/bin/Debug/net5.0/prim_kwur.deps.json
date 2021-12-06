@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prim_kwur/1.0.0": {
+        "runtime": {
+          "prim_kwur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prim_kwur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

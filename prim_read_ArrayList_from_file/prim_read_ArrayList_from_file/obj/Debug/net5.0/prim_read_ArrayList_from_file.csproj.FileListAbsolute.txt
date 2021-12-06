@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.exe
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.deps.json
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.runtimeconfig.json
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.dll
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\ref\prim_read_ArrayList_from_file.dll
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\bin\Debug\net5.0\prim_read_ArrayList_from_file.pdb
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.dll
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\ref\prim_read_ArrayList_from_file.dll
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.pdb
+C:\Users\elo\source\repos\prim_read_ArrayList_from_file\prim_read_ArrayList_from_file\obj\Debug\net5.0\prim_read_ArrayList_from_file.genruntimeconfig.cache

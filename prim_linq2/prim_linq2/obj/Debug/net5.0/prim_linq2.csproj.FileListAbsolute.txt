@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.exe
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.deps.json
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.runtimeconfig.json
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.dll
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\ref\prim_linq2.dll
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\bin\Debug\net5.0\prim_linq2.pdb
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.dll
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\ref\prim_linq2.dll
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.pdb
+C:\Users\elo\source\repos\prim_linq2\prim_linq2\obj\Debug\net5.0\prim_linq2.genruntimeconfig.cache

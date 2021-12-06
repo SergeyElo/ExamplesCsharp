@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.AssemblyInfo.cs
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.exe
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.deps.json
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.runtimeconfig.json
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.runtimeconfig.dev.json
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.dll
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\ref\geron3.dll
+C:\Users\elo\source\repos\geron3\geron3\bin\Debug\net5.0\geron3.pdb
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.dll
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\ref\geron3.dll
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.pdb
+C:\Users\elo\source\repos\geron3\geron3\obj\Debug\net5.0\geron3.genruntimeconfig.cache

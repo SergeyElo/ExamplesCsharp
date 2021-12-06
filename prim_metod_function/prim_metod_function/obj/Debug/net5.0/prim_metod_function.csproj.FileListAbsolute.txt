@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.exe
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.deps.json
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.runtimeconfig.json
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.dll
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\ref\prim_metod_function.dll
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\bin\Debug\net5.0\prim_metod_function.pdb
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.dll
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\ref\prim_metod_function.dll
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.pdb
+C:\Users\elo\source\repos\prim_metod_function\prim_metod_function\obj\Debug\net5.0\prim_metod_function.genruntimeconfig.cache

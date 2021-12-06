@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.exe
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.deps.json
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.runtimeconfig.json
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.runtimeconfig.dev.json
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.dll
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\ref\pp30.dll
+C:\Users\elo\source\repos\pp30\pp30\bin\Debug\net5.0\pp30.pdb
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.AssemblyInfo.cs
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.dll
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\ref\pp30.dll
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.pdb
+C:\Users\elo\source\repos\pp30\pp30\obj\Debug\net5.0\pp30.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.exe
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.deps.json
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.runtimeconfig.json
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.runtimeconfig.dev.json
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.dll
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\ref\dz_IMT.dll
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\bin\Debug\net5.0\dz_IMT.pdb
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.AssemblyInfo.cs
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.dll
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\ref\dz_IMT.dll
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.pdb
+C:\Users\elo\source\repos\dz_IMT\dz_IMT\obj\Debug\net5.0\dz_IMT.genruntimeconfig.cache

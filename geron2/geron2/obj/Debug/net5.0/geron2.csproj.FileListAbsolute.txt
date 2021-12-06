@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.exe
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.deps.json
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.runtimeconfig.json
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.runtimeconfig.dev.json
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.dll
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\ref\geron2.dll
+C:\Users\elo\source\repos\geron2\geron2\bin\Debug\net5.0\geron2.pdb
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.AssemblyInfo.cs
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.dll
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\ref\geron2.dll
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.pdb
+C:\Users\elo\source\repos\geron2\geron2\obj\Debug\net5.0\geron2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.exe
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.deps.json
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.runtimeconfig.json
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.dll
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\ref\prim_abstract_class_01.dll
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\bin\Debug\net5.0\prim_abstract_class_01.pdb
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.dll
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\ref\prim_abstract_class_01.dll
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.pdb
+C:\Users\elo\source\repos\prim_abstract_class_01\prim_abstract_class_01\obj\Debug\net5.0\prim_abstract_class_01.genruntimeconfig.cache

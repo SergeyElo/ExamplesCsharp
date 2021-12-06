@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.exe
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.deps.json
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.runtimeconfig.json
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.dll
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\ref\prim_perevod.dll
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\bin\Debug\net5.0\prim_perevod.pdb
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.dll
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\ref\prim_perevod.dll
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.pdb
+C:\Users\elo\source\repos\prim_perevod\prim_perevod\obj\Debug\net5.0\prim_perevod.genruntimeconfig.cache

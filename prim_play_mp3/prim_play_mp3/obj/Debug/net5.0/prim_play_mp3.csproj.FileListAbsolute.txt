@@ -1,0 +1,5 @@
+C:\Users\elo\source\repos\prim_play_mp3\prim_play_mp3\obj\Debug\net5.0\prim_play_mp3.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim_play_mp3\prim_play_mp3\obj\Debug\net5.0\prim_play_mp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim_play_mp3\prim_play_mp3\obj\Debug\net5.0\prim_play_mp3.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim_play_mp3\prim_play_mp3\obj\Debug\net5.0\prim_play_mp3.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim_play_mp3\prim_play_mp3\obj\Debug\net5.0\prim_play_mp3.csproj.CoreCompileInputs.cache

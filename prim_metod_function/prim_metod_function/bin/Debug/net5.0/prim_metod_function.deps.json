@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prim_metod_function/1.0.0": {
+        "runtime": {
+          "prim_metod_function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prim_metod_function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

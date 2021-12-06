@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.AssemblyInfo.cs
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.exe
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.deps.json
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.runtimeconfig.json
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.runtimeconfig.dev.json
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.dll
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\ref\krest_nol.dll
+C:\Users\elo\source\repos\krest_nol\krest_nol\bin\Debug\net5.0\krest_nol.pdb
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.dll
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\ref\krest_nol.dll
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.pdb
+C:\Users\elo\source\repos\krest_nol\krest_nol\obj\Debug\net5.0\krest_nol.genruntimeconfig.cache

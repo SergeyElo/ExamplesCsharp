@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.AssemblyInfo.cs
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.exe
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.deps.json
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.runtimeconfig.json
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.runtimeconfig.dev.json
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.dll
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\ref\mystack.dll
+C:\Users\elo\source\repos\mystack\mystack\bin\Debug\net5.0\mystack.pdb
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.dll
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\ref\mystack.dll
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.pdb
+C:\Users\elo\source\repos\mystack\mystack\obj\Debug\net5.0\mystack.genruntimeconfig.cache

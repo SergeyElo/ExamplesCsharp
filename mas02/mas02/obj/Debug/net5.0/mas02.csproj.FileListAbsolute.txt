@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.exe
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.deps.json
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.runtimeconfig.json
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.runtimeconfig.dev.json
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.dll
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\ref\mas02.dll
+C:\Users\elo\source\repos\mas02\mas02\bin\Debug\net5.0\mas02.pdb
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.AssemblyInfo.cs
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.dll
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\ref\mas02.dll
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.pdb
+C:\Users\elo\source\repos\mas02\mas02\obj\Debug\net5.0\mas02.genruntimeconfig.cache

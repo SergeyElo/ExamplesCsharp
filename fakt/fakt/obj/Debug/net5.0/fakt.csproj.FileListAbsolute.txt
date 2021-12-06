@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.exe
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.deps.json
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.runtimeconfig.json
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.runtimeconfig.dev.json
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.dll
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\ref\fakt.dll
+C:\Users\elo\source\repos\fakt\fakt\bin\Debug\net5.0\fakt.pdb
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.AssemblyInfo.cs
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.dll
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\ref\fakt.dll
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.pdb
+C:\Users\elo\source\repos\fakt\fakt\obj\Debug\net5.0\fakt.genruntimeconfig.cache
