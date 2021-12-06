@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.AssemblyInfo.cs
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.exe
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.deps.json
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.runtimeconfig.json
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.runtimeconfig.dev.json
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.dll
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\ref\tabl_umn.dll
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\bin\Debug\net5.0\tabl_umn.pdb
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.dll
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\ref\tabl_umn.dll
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.pdb
+C:\Users\elo\source\repos\tabl_umn\tabl_umn\obj\Debug\net5.0\tabl_umn.genruntimeconfig.cache

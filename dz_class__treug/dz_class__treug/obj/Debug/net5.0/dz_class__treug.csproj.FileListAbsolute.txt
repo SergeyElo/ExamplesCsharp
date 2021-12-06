@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.exe
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.deps.json
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.runtimeconfig.json
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.runtimeconfig.dev.json
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.dll
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\ref\dz_class__treug.dll
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\bin\Debug\net5.0\dz_class__treug.pdb
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.AssemblyInfo.cs
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.dll
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\ref\dz_class__treug.dll
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.pdb
+C:\Users\elo\source\repos\dz_class__treug\dz_class__treug\obj\Debug\net5.0\dz_class__treug.genruntimeconfig.cache

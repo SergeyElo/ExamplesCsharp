@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.exe
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.deps.json
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.runtimeconfig.json
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.dll
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\ref\prim10.dll
+C:\Users\elo\source\repos\prim10\prim10\bin\Debug\net5.0\prim10.pdb
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.dll
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\ref\prim10.dll
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.pdb
+C:\Users\elo\source\repos\prim10\prim10\obj\Debug\net5.0\prim10.genruntimeconfig.cache

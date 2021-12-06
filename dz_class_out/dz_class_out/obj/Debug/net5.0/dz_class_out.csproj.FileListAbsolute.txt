@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.exe
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.deps.json
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.runtimeconfig.json
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.runtimeconfig.dev.json
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.dll
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\ref\dz_class_out.dll
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\bin\Debug\net5.0\dz_class_out.pdb
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.AssemblyInfo.cs
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.dll
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\ref\dz_class_out.dll
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.pdb
+C:\Users\elo\source\repos\dz_class_out\dz_class_out\obj\Debug\net5.0\dz_class_out.genruntimeconfig.cache

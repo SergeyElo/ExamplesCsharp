@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.AssemblyInfo.cs
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.exe
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.deps.json
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.runtimeconfig.json
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.runtimeconfig.dev.json
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.dll
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\ref\prim21.dll
+C:\Users\elo\source\repos\prim21\prim21\bin\Debug\net5.0\prim21.pdb
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.dll
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\ref\prim21.dll
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.pdb
+C:\Users\elo\source\repos\prim21\prim21\obj\Debug\net5.0\prim21.genruntimeconfig.cache
