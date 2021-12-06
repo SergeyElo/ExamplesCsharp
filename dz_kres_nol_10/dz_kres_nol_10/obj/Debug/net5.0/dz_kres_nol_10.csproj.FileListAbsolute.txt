@@ -1,0 +1,16 @@
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.exe
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.deps.json
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.runtimeconfig.json
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.runtimeconfig.dev.json
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.dll
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\ref\dz_kres_nol_10.dll
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\bin\Debug\net5.0\dz_kres_nol_10.pdb
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.csproj.AssemblyReference.cache
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.AssemblyInfoInputs.cache
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.AssemblyInfo.cs
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.csproj.CoreCompileInputs.cache
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.dll
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\ref\dz_kres_nol_10.dll
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.pdb
+C:\Users\elo\source\repos\dz_kres_nol_10\dz_kres_nol_10\obj\Debug\net5.0\dz_kres_nol_10.genruntimeconfig.cache
